@@ -1,4 +1,4 @@
-package org.example.tests.annotations;
+package org.example.tests;
 
 import org.example.tests.TestRunner;
 import org.example.tests.TestRunnerDemo;
