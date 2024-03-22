@@ -3,9 +3,7 @@ package org.example.tests;
 import org.example.tests.annotations.*;
 
 public class TestRunnerDemo {
-    public static void main(String[] args) {
-        TestRunner.run(TestRunnerDemo.class);
-    }
+
     @BeforeAll
     static void beforeAll(){
         System.out.println("Before all");
