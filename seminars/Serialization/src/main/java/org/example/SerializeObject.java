@@ -1,7 +1,7 @@
-package org.example.lecture;
+package org.example;
 
-import org.example.lecture.MyFCs;
-import org.example.lecture.MyFCsPrivateFields;
+import org.example.MyFCs;
+import org.example.MyFCsPrivateFields;
 
 import java.io.*;
 import java.util.ArrayList;

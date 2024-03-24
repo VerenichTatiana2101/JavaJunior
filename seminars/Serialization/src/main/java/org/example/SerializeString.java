@@ -1,4 +1,4 @@
-package org.example.lecture;
+package org.example;
 
 
 import java.io.FileInputStream;
