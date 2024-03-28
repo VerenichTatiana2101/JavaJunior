@@ -1,11 +1,7 @@
 package org.example;
 
 import org.hibernate.Session;
-import org.hibernate.Transaction;
 import org.hibernate.query.Query;
-import org.hibernate.sql.ast.tree.Statement;
-
-import java.sql.ResultSet;
 import java.util.List;
 
 public class Main {
