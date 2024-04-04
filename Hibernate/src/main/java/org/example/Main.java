@@ -22,7 +22,6 @@ public class Main {
         delete(connector, 14);
         //поиск всех студентов старше 20 лет
         showForData(connector, 20);
-
     }
 
     public static void showTable(Connector connector) {
